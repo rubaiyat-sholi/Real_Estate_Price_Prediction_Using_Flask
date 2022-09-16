@@ -2,6 +2,7 @@
 A Data Science and Machine Learning project on 'Real Estate Price Prediction' using Flask deployment environment.
 
 Input : Locations, Area (Sq ft.), Number of required bedrooms, drawings, kitchen, baths.
+
 Output : Estimated price based on input requirements.
 
 Implemented methods/tools for this project:
