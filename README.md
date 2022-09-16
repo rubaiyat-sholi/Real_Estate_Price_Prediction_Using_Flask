@@ -1,11 +1,11 @@
 # Real_Estate_Price_Prediction_Using_Flask
 A Data Science and Machine Learning project on 'Real Estate Price Prediction' using Flask deployment environment.
 
-Input : Locations, Area (Sq ft.), Number of required bedrooms, drawings, kitchen, baths.
+**Input** : Locations, Area (Sq ft.), Number of required bedrooms, drawings, kitchen, baths.
 
-Output : Estimated price based on input requirements.
+**Output** : Estimated price based on input requirements.
 
-Implemented methods/tools for this project:
+**Implemented methods/tools for this project:**
 1) Python
 2) Numpy and Pandas for data cleaning
 3) Matplotlib for data visualization
